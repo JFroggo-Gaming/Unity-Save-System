@@ -1,6 +1,6 @@
 Unity save system
 
-/*
+
 Documentation for Save System:
 
 1.BinarySaveData.cs: This script is responsible for saving and loading data in binary format. It implements the ISaveData interface and contains the methods for saving and loading data using BinaryFormatter.
@@ -26,4 +26,3 @@ Documentation for Save System:
 
 8.SaveFormatSelector.cs: This script is responsible for managing the UI for selecting the save format. It provides buttons to switch between JSON and binary formats and saves the selected format to player prefs.
 
-*/
