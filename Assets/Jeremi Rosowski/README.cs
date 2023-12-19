@@ -1,4 +1,5 @@
-/*
+/* TEXT MESH PRO AND INPUT SYSTEM IS REQUIRED TO RUN THIS PACKAGE!
+
 Documentation for Save System:
 
 1.BinarySaveData.cs: This script is responsible for saving and loading data in binary format. It implements the ISaveData interface and contains the methods for saving and loading data using BinaryFormatter.
